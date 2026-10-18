@@ -88,7 +88,7 @@ VOCES = {  # nombre en pantalla → voz neuronal de Microsoft Edge (edge-tts)
     "Álvaro · hombre (España)": "es-ES-AlvaroNeural",
     "Elvira · mujer (España)": "es-ES-ElviraNeural",
 }
-VOZ_POR_DEFECTO = "Alex · hombre (Perú)"
+VOZ_POR_DEFECTO = "Camila · mujer (Perú)"
 VOZ_VELOCIDADES = {"Lenta": 0.85, "Normal": 1.0, "Rápida": 1.25}
 VOZ_VELOCIDAD_INICIAL = "Normal"
 GTTS_TLD = "com.mx"  # acento del respaldo gTTS (com.mx = latinoamericano, es = España)
